@@ -20,6 +20,11 @@
         </dependency>
         <dependency>
             <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_http</artifactId>
+            <version>4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
             <artifactId>ApacheJMeter_functions</artifactId>
             <version>4.0</version>
         </dependency>
