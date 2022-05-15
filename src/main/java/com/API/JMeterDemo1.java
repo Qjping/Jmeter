@@ -39,7 +39,7 @@ public class JMeterDemo1 {
 		// 其实到这里，是可以仅将这3个配置文件抽离出来，即不需要整个Jmeter的home目录，仅要这3个配置文件就能运行Jmeter脚本。
 		// 甚至仅在代码中写要的配置，都不需要实体的配置文件即可。
 		// 当然随着功能越来越多，平台跟Jmeter的耦合也越来越多，这个Jmeter_home目录还是越来越必要了。
-		String jmeterHome1 = "C:\\Users\\qiujingping\\Desktop\\apache-jmeter-5.1.1";
+		String jmeterHome1 = "C:\\Users\\Administrator\\Desktop\\apache-jmeter-4.0";
         //File jmeterHome = new File(System.getProperty("jmeter.home"));
 		File jmeterHome = new File(jmeterHome1);
 		// 分隔符
